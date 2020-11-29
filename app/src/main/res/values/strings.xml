@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TablaCategoria</string>
+    <string name="title">CURD Categoria</string>
+    <string name="title_home">Categorias</string>
+    <string name="title_dashboard">RecyclerView</string>
+    <string name="title_notifications">Acerca De</string>
+
+    <string-array name="estadoCategorias">
+        <item>Seleccione</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
